@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MtsGou
-- Brazilian engineer at a mining company in innovation department
+- Brazilian engineer and developer
 - Interested in energy solutions, engineering, machine learning, big data, technology in general. 
-- Currently learning data engineering (airflow, tensorflow, python for data science, SQL, etc)
+- Currently into data science
 - New to github. Stay tuned.
 
 <!---
