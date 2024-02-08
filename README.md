@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science, Data Analysis**
 
-- 📝 I regularly write articles on [Data Science, electrical engineering and IoT](Data Science, electrical engineering and IoT)
+- 📝 I regularly write articles on **Data Science, electrical engineering and IoT**
 
 - 📫 How to reach me **gouveia.carvalho.math@gmail.com**
 
