@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://br.linkedin.com/in/matheus-gouveia-361b65196](https://br.linkedin.com/in/matheus-gouveia-361b65196)
 
-- 📄 Previous Project **Embedded system for autonomous trucks**
+- 📄 Previous Project: **Embedded system for autonomous trucks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
