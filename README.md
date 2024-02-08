@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Gouveia</h1>
 <h3 align="center">Data Scientist, software developer and engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **IoT devices for monitoring**
+- 🔭 I’m currently working on **IoT devices for monitoring, and streaming data**
 
 - 🌱 I’m currently learning **SparkML, TensorFlow, sklearn, recommendation systems.**
 
