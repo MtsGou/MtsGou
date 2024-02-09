@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9F6D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Matheus+Gouveia;I'm+a+Data+Scientist;A-software-developer;and-an-Electrical-Engineer;I'm+Brazilian;Welcome-to-my-profile!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=27FFC7&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Matheus+Gouveia;I'm+a+Data+Scientist;a+software-developer;and+an+Electrical+Engineer;I'm+Brazilian;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)<br>
 
-<h1 align="center">Hi 👋, I'm Matheus Gouveia</h1>
 <h3 align="center">Data Scientist, software developer and engineer from Brazil</h3>
 
 - 🔭 I’m currently working on **IoT devices for monitoring, and streaming data**
