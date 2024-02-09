@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27FFC7&height=120&section=header"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C8CE12&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Matheus+Gouveia;I'm+a+Data+Scientist;Software+Developer;and+an+Electrical+Engineer!;I'm+Brazilian!;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27FFC7&height=120&section=header"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DFBC64&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Matheus+Gouveia;I'm+a+Data+Scientist;Software+Developer;and+an+Electrical+Engineer!;I'm+Brazilian!;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)<br>
 
 <br></br>
 
