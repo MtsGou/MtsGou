@@ -73,7 +73,7 @@
 <hr>
 
 <div align="center">
-  <h3>Tools and Languages for embedded programing</h3>
+  <h3>Tools and Languages for embedded programming</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino)](https://skillicons.dev)
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/PlatformIO_logo.svg/2048px-PlatformIO_logo.svg.png" width="50"/>
