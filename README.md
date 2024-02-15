@@ -19,7 +19,10 @@
 <br></br>
 
 <p align="center">
-<img align="center" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif" width="400"/>
+<!--<img align="center" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif" width="400"/>!-->
+  <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif" width="400"/>
+  <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/668001/screenshots/3861883/data-graphic-animation.gif" width="400"/>
+  
 </p>
 
 <br></br>
