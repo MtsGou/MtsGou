@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27FFC7&height=120&section=header"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DFBC64&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Matheus+Gouveia;I'm+a+Data+Scientist;Software+Developer;and+an+Electrical+Engineer!;I'm+Brazilian!;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27FFC7&height=120&section=header"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DFBC64&size=55&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Matheus+Gouveia;I'm+a+Data+Scientist;Software+Developer;and+an+Electrical+Engineer!;I'm+Brazilian!;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)<br>
 
 <br></br>
 
@@ -21,8 +21,16 @@
 <br></br>
 
 <p align="center">
+<img align="center" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif" width="400"/>
+</p>
+
+<br></br>
+
+<p align="center">
   <img width='30' src='https://static-00.iconduck.com/assets.00/brazil-emoji-2048x1480-z2fhxkde.png' />
 </p>
+
+<hr>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
