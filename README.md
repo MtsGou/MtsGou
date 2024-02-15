@@ -6,8 +6,6 @@
   
 </p>
 
-<br></br>
-
 - 🔭 I’m currently working on **IoT devices for monitoring, and streaming data**
 
 - 🌱 I’m currently studying **SparkML, TensorFlow, sklearn, recommendation systems.**
