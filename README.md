@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27FFC7&height=120&section=header"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DFBC64&size=48&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Matheus+Gouveia;I'm+a+Data+Scientist;Software+Developer;and+an+Electrical+Engineer!;I'm+Brazilian!;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27FFC7&height=120&section=header"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DFBC64&size=48&center=true&vCenter=true&width=1000&duration=2500&lines=Hi👋,+I'm+Matheus+Gouveia;I'm+a+Data+Scientist;Software+Developer;and+an+Electrical+Engineer!;I'm+Brazilian!;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
 
@@ -25,13 +25,6 @@
 <br></br>
 
 <p align="center">
-  <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif" width="400"/>
-  
-</p>
-
-<br></br>
-
-<p align="center">
   <img width='30' src='https://static-00.iconduck.com/assets.00/brazil-emoji-2048x1480-z2fhxkde.png' />
 </p>
 
@@ -47,12 +40,14 @@
 <img width="100%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsgou&layout=compact&hide_border=true&title_color=E8E5BC&text_color=E8E5BC&bg_color=0d1117" />
 </div>
 
-<br><br>
-
 <p align="center">
 
 </p>
 
+<p align="center">
+  <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif" width="400"/>
+  
+</p>
  
 <hr>
 
