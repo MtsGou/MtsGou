@@ -66,8 +66,9 @@
 <div align="center">
   <h3>Main skills - ETL, pipelines and IoT back-end</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=kafka,js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
   <img src= "https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png" width="50"/>
+   [![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
 </div>
 
 <hr>
