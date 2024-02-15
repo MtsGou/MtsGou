@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/668001/screenshots/3861883/data-graphic-animation.gif" width="400"/>
+  <!--<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/668001/screenshots/3861883/data-graphic-animation.gif" width="400"/>!-->
   
 </p>
 
