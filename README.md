@@ -37,7 +37,7 @@
 </p>
 
 <div>
-<img width="100%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtsGou&layout=compact&hide_border=true&title_color=E8E5BC&text_color=E8E5BC&bg_color=0d1117" />
+<img width="100%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtsGou&layout=compact&title_color=E8E5BC&bg_color=0d1117&text_color=E8E5BC&hide_border=true" />
 </div>
 
 <p align="center">
