@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on **IoT devices for monitoring, and streaming data**
 
+- 📄 I've worked with **embedded systems, and software development for autonomous trucks**
+
 - 🌱 I’m currently studying **SparkML, TensorFlow, sklearn, recommendation systems.**
 
 - 👯 I’m looking to collaborate on **Data Science, Data Analysis**
@@ -19,8 +21,6 @@
 - 👨‍💻 All of my projects will be available soon!
 
 - 📄 Know about my experiences [https://br.linkedin.com/in/matheus-gouveia-361b65196](https://br.linkedin.com/in/matheus-gouveia-361b65196)
-
-- 📄 Previous Project: **Embedded system for autonomous trucks**
 
 <br></br>
 
