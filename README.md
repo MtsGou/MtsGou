@@ -18,8 +18,6 @@
 
 - 📫 How to reach me: **gouveia.carvalho.math@gmail.com**
 
-- 👨‍💻 All of my projects will be available soon!
-
 - 📄 Know about my experiences [here](https://br.linkedin.com/in/matheus-gouveia-361b65196)
 
 <br></br>
